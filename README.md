@@ -1,4 +1,4 @@
 **#My Portofolio with HTML and CSS**
 
 **##Contact me** 
-[contact me](mailto:%20is.ganimete@gmail.com)
+[my email](mailto:is.ganimete@gmail.com)
